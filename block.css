@@ -1,0 +1,11 @@
+.hari{
+    color: aqua;
+    background-color:green;
+    font-size: large;
+}
+.hari2{
+    color: hotpink;
+    font: large;
+    display:inline-block;
+    background-color: indigo;
+}
